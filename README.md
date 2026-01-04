@@ -1,6 +1,8 @@
 # ASL-Letter-Recognition-System
 computer vision project
 
+dataset:https://aistudio.baidu.com/datasetdetail/292697
+
 Software Require： python
 
 # To Install all dependencies, Execute the following code directly: 
