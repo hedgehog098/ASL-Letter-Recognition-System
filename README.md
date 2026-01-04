@@ -6,18 +6,16 @@ Software Require： python
 # To Install all dependencies, Execute the following code directly: 
 
 cat > requirements.txt << 'EOF'
-#base
+
 numpy>=1.21.0
 matplotlib>=3.5.0
 Pillow>=9.0.0
 tqdm>=4.64.0
 
-#pytorch
 torch>=2.0.0
 torchvision>=0.15.0
 torchaudio>=2.0.0
 
-#data
 pandas>=1.4.0
 scikit-learn>=1.0.0
 opencv-python>=4.6.0  
